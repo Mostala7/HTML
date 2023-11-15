@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+
+.p1 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:xx-large;
+    font-weight: 1000;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.p2 {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    word-spacing: .5em;
+    font-size: large;
+}
